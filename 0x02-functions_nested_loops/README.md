@@ -1,1 +1,0 @@
-The projects takes into account the demostration of nested loops and how to use them, functions and how to use them, prototypes, declarations, scopes of variables and quite much about header files and how to use them.
