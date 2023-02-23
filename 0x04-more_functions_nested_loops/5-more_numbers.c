@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "main.h"
+
 /**
  * more_numbers - prints 10 times the numbers
  *
