@@ -11,7 +11,7 @@ int print(char *);
 char *itoa(long int, int);
 
 /* printf.c */
-int _printf(const char *, ...);
+int _printf(const char *format, ...);
 
 /* handler.c */
 int handler(const char *, va_list);
